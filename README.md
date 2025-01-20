@@ -1,6 +1,6 @@
-<h1>Juego numero secreto 🚀</h1> 
+<h1>Juego número secreto 🚀</h1> 
 
-## 🛠️ Implementacion
+## 🛠️ Implementación
 
-1. HTLM y CCS
+1. HTML y CSS
 2. JAVA SCRIP
